@@ -7,6 +7,11 @@ const About = () => {
         <h1>About Me</h1>
         <img src="" alt="" />
     </div>
+    <div className="about-section">
+        <div className="about-left">
+            <img src="" alt="" />
+        </div>
+    </div>
   </div>;
 };
 
